@@ -1,0 +1,45 @@
+.dashboard{
+    font-size: 10px;
+    font-weight: 600;
+}
+.design{
+    font-size: 4px;
+    opacity: 0.5;
+    margin-top: -15px;
+}
+.div .word b{
+    font-size: 10px;
+    margin-left: -1px;
+}
+.div .word p{
+    font-size: 4px;
+    opacity: 0.5;
+    margin-left: -1px;
+}
+
+.main div{
+    margin-right: 10px;
+}
+.main{
+    display: flex;
+}
+.div{
+    display: flex;
+    margin-left: 10px;
+}
+.shadow{
+    width: 100px;
+    height: 5px;
+    border-bottom: 1px solid lightgrey;
+    border-left: 1px solid lightgrey;
+    border-right: 1px solid lightgrey;
+    border-radius: 90px;
+    border-top: white;
+}
+
+.row_mayda3{
+    display: flex;
+    div{
+        margin-right: 15px;
+    }
+}
